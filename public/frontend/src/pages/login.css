@@ -1,0 +1,14 @@
+.login-page {
+  min-height: 100vh;
+  background: #f0f2f5;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  background: white;
+}
+
+.btn-link {
+  text-decoration: none;
+}

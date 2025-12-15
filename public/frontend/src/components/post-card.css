@@ -1,0 +1,8 @@
+.post-card {
+  border: 1px solid #ddd;
+  transition: background 0.2s;
+}
+
+.post-card:hover {
+  background: #fafafa;
+}
